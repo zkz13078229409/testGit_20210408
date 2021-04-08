@@ -11,7 +11,7 @@ public void test(Bird bird){
 				return 10000;
 			}
 			public String getName(){
-				System.out.print("test");
+				System.out.print("test  dddd");
 				return "大雁";
 			}
 		});
